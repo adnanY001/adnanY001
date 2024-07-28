@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adnan Yaqubi
 - 👀 I’m interested in Machine Learninig 
-- 🌱 I’m currently learning Pandas, Numpy and Pytourch
+- 🌱 I’m currently learning Pandas, Numpy and Pytourch and on top of that a bit of web-development 
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 Email: adnan.yaqobi001@gmail.com
 
